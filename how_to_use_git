@@ -1,0 +1,5 @@
+1. git init
+2. git remote add origin git@github.com:pengfeiliu-backcq/notes.git
+	* origin后面一长串可以在仓库的code按钮中找到O[O
+3. 然后就可以通过pitpull拉下来代码了
+4. 根据自己的需求做一些操作
